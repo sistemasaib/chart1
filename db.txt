@@ -1,0 +1,9 @@
+{
+  "errores": {
+    "total_material": 10,
+    "material_surtido": 7,
+    "material_no_surtido": 3,
+    "No_OK": 3,
+    "OK": 7
+  }
+}
